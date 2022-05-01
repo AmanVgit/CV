@@ -1,0 +1,21 @@
+body {
+    background: color #eaf6f6; ;
+}
+
+hr {
+    background: color #eaf6f6; ;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(34, 34, 70);
+    border-width: 7px;
+    width: 5%;
+
+}
+h1{
+    font-family: serif;
+    color: #15a1a1 ;
+}
+h3{
+    font-family:"Gill Sans", sans-serif;;
+    color: #655D8A;
+}
